@@ -1,1 +1,2 @@
 # PCCoE-Olympics
+PCCOE Olympics: A website Front-End I designed under a National initiative "PCCOE Fitness First Festival". The tech stack includes HTML, CSS , JS  . Tried my best to inculcate principles of visual design like layout, typography, and color theory.  Consideration of user experience when it comes to the leaderboard or general inspection of team performance. This sports-themed website aims to provide a meaningful and relevant experience to users.
